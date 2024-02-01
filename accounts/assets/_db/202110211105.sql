@@ -1,0 +1,1 @@
+ALTER TABLE `items` ADD `brand` VARCHAR(255) NULL AFTER `category`;

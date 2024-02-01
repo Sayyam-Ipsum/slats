@@ -1,0 +1,9 @@
+
+td.highlightable {
+    cursor: pointer;
+    user-select: text;
+}
+
+td.highlighted {
+    background-color: lightblue;
+}

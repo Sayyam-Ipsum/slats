@@ -1,0 +1,2 @@
+ALTER TABLE `items` ADD `EAN` VARCHAR(255) NULL AFTER `category`, ADD `artical_number` VARCHAR(255) NULL AFTER `EAN`, ADD `description2` VARCHAR(255) NULL AFTER `artical_number`, ADD UNIQUE (`EAN`);
+ALTER TABLE `items` ADD UNIQUE (`barcode`);

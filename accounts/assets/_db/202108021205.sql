@@ -1,0 +1,1 @@
+ALTER TABLE `transactions` ADD `status` TINYINT UNSIGNED NULL AFTER `discount`;

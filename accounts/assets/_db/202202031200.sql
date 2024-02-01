@@ -1,0 +1,1 @@
+ALTER TABLE `transactions` ADD `transfered` TINYINT UNSIGNED NULL DEFAULT NULL AFTER `locked`;

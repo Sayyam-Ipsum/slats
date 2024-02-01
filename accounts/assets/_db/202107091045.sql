@@ -1,0 +1,1 @@
+ALTER TABLE `items` ADD `profit` DOUBLE UNSIGNED NOT NULL DEFAULT '0' AFTER `open_qty`;

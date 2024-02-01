@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` ADD `account_id` INT UNSIGNED NULL AFTER `status_date`;

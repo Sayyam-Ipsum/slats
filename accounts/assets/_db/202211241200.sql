@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD `payment_method` VARCHAR(10) CHARACTER SET utf8 COLLATE utf8_general_ci NULL AFTER `type`;

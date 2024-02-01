@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` ADD `checkbox` BOOLEAN NULL AFTER `net_cost`;

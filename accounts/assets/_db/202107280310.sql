@@ -1,0 +1,3 @@
+ALTER TABLE `items` ADD `purchase_cost` VARCHAR(255) NULL AFTER `cost`;
+ALTER TABLE `items` ADD `TVA` DOUBLE UNSIGNED NULL DEFAULT '0' AFTER `profit`;
+ALTER TABLE `items` ADD `price_ttc` DOUBLE UNSIGNED NOT NULL DEFAULT '0' AFTER `price`;

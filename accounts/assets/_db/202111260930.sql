@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` CHANGE `item_profit` `item_profit` DOUBLE UNSIGNED NULL DEFAULT '0';

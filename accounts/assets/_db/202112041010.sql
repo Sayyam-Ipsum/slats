@@ -1,0 +1,1 @@
+ALTER TABLE `transactions` ADD `delivery_type` VARCHAR(50) NULL AFTER `user_id`;

@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD `type` VARCHAR(50) NULL AFTER `open_balance`;

@@ -1,0 +1,1 @@
+ALTER TABLE `transactions` ADD `invoice_related_nb` VARCHAR(100) NULL AFTER `edit_user_id`;

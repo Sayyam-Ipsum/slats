@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` ADD `status` VARCHAR(100) NULL AFTER `checkbox`;

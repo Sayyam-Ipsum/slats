@@ -1,0 +1,1 @@
+[22-Jun-2021 13:59:24 UTC] PHP Fatal error:  Can't use method return value in write context in /home/violetpro/public_html/mazen/application/models/Item.php on line 132

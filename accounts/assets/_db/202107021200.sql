@@ -1,0 +1,2 @@
+CREATE TABLE `warehouses` ( `id` INT UNSIGNED NOT NULL AUTO_INCREMENT , `warehouse` VARCHAR(255) NOT NULL , `shelf` VARCHAR(255) NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
+ALTER TABLE `transaction_items` ADD `warehouse_id` INT UNSIGNED NOT NULL AFTER `item_id`;

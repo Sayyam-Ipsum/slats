@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` ADD `profit` DOUBLE NULL DEFAULT '0' AFTER `net_cost`;

@@ -1,0 +1,1 @@
+ALTER TABLE `transaction_items` ADD `pickedup_qty` INT NULL AFTER `relation_id`;
