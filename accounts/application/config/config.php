@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 //$config['base_url'] = 'https://uat.slats.ch/accounts/';
 
-$config['base_url'] = 'http://dev.slat.ch.com';
+$config['base_url'] = 'http://localhost/slats.ch/accounts/';
 
 
 

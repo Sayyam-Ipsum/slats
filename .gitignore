@@ -8,6 +8,8 @@ HELP.md
 
 /accounts/application/config/database.php
 
+*accounts/application/config/development
+
 ### STS ###
 
 .apt_generated

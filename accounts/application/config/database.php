@@ -62,9 +62,9 @@ $db['default'] = array(
 
     'username' => 'root',
 
-    'password' => 'Sarosh@ubuntu',
+    'password' => '',
 
-    'database' => 'slat.ch',
+    'database' => 'adudmih_slatsuat',
 
     'dbdriver' => 'mysqli',
 
