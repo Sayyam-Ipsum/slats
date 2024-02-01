@@ -4,10 +4,6 @@ HELP.md
 
 /accounts/system/session_files/
 
-/accounts/application/config/config.php
-
-/accounts/application/config/database.php
-
 *accounts/application/config/development
 
 ### STS ###
